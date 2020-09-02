@@ -1,2 +1,2 @@
 # test
-learning
+update ubuntu packages
